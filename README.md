@@ -7,8 +7,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Stack: Front-End Developer!
 ---------------------------------
 
-
-
 <!--**iamunclesam/iamunclesam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
