@@ -16,9 +16,8 @@ Here are some ideas to get you started:-->
 - 🌍 I'm based in Nigeria.
 - 🔭 I’m currently working on something hooge
 - 🌱 I’m currently learning Backend with Node.js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about my journey
+- 👯 I’m looking to collaborate on an project
+- 💬 Ask me about my Journey
 - 📫 How to reach me: contact me at [adeyemis958@gmail.com](mailto:adeyemis958@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm socially shy 
